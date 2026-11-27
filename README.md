@@ -1,9 +1,9 @@
-
 <p align="center">
-  <img src="assets/portfolio-image.png"
+  <img src="portfolio-image.png"
        alt="Uday Rathod - Portfolio 2.0"
        width="100%" />
 </p>
+
 # Uday Rathod | Portfolio 2.0
 
 <p align="center">

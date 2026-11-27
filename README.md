@@ -38,6 +38,13 @@ This is the second iteration of my portfolio, with a stronger focus on visual st
 https://portfolio-2-0-swart-two.vercel.app/
 
 ## ✦ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/React-2026?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A" />
+  <img src="https://img.shields.io/badge/Vite-7.0-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel" />
+</p>
 
 | Technology | Purpose |
 |---|---|
